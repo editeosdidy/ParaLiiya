@@ -1,0 +1,4 @@
+git config --global user.name "didy"
+git config --global user.email "editeosdidy@gmail.com"
+git remote add origin https://github.com/usuario/repositorio.git
+git push -u origin main
